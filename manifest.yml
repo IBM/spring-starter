@@ -5,6 +5,6 @@ applications:
   name: springstarter
   buildpack: java_buildpack
   path: ./target/springstarter-1.0-SNAPSHOT.jar
-  memory: 1024M
+  memory: 256M
   domain: not-used.net
   host: not-used
